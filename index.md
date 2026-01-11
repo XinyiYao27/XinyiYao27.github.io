@@ -21,6 +21,7 @@ I am a postgraduate student specialising in Data Science. My undergraduate major
 **Expolring Factors Affecting Air Quality in Sheffield**
 * **Goal:** Providing an insightful visual representation of the factors influencing pollutants.
 * [View Project Report](https://XinyiYao27.github.io/Sheffield-Air-Pollution-Visualisation/) | [View Code](https://github.com/XinyiYao27/Sheffield-Air-Pollution-Visualisation)
+
 ---
 
 ## 🛠 Skills
