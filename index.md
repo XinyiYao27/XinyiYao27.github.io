@@ -13,8 +13,7 @@ I am a postgraduate student specialising in Data Science. My undergraduate major
 
 ### 1. [Air Quality Analysis (IJC437)](https://github.com/XinyiYao27/Sheffield-Air-Quality-Analysis)
 **Quantifying Anthropogenic Signals in Air Pollution**
-* **Goal:** Distinguished traffic patterns (NO2) from heating sources (PM2.5) using Random Forest.
-* **Key Finding:** NO2 shows a rigid weekend drop (86% accuracy), while PM2.5 does not.
+* **Goal:** Distinguish traffic patterns (NO2) from heating sources (PM2.5) by Random Forest.
 * [View Project Report](https://XinyiYao27.github.io/Sheffield-Air-Quality-Analysis/) | [View Code](https://github.com/XinyiYao27/Sheffield-Air-Quality-Analysis)
 
 ### 2. [Air Quality Visualisation (IJC445)](https://github.com/XinyiYao27/Sheffield-Air-Pollution-Visualisation)
